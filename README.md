@@ -1,1 +1,3 @@
-# learn_c
+# Learn C
+## Programação de Software básico en C
+## Faculdade Martha Falcão
